@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     Launcher3QuickStep \
     Provision \
     QuickAccessWallet \
-    SimpleDeviceConfig \
     Settings \
     StorageManager \
     SystemUI \
